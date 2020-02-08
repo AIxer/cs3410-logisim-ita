@@ -1,5 +1,6 @@
 # cs3410-logisim-ita
-compatible with latest logisim italy edition
+cs3410.jar RISC-V components
+made it compatible with latest logisim italy edition
 
-# How
+# How?
   just replace getPortValue() with getPort()
