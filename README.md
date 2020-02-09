@@ -3,6 +3,7 @@ cs3410.jar RISC-V components
 ### made it compatible with the latest logisim italy edition 2.17
 
 # How?
-  ## just replace getPortValue() with getPort()
+  ## 1. replace getPortValue() with getPort()
+  ## 2. deal with fireAttributeValueChanged()
   
 ### 想用cs3410.jar但是又不想用logisim-evolution 2.x 版本，华中科技大学的cs3410.jar 是MIPS的，但是我很想用RISC-V的, so，cs3410.jar RISC-V版 for logisim-ita and logisim-hust 出世了！
